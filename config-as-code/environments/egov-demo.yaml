@@ -864,3 +864,4 @@ es-curator:
   jaeger-cleanup-enabled: "true"
   logs-to-retain: "7"
 # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
