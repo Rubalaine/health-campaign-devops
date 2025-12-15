@@ -14,7 +14,7 @@ db_username: "testhealth"
 pubblic_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2n87xFzBGCJdZkhsmfwF9ie0W6MeNADebUZjHCtlZ6RpLcqeW2r9MY1nsdxwxsHDwyS1fhqnbMeuzmUzNbqAsaHUZw1JOzzP+0L70KcCSQs5aiJ9Gb1azjE+N2Qspo9p1bEXcvUKZ5s7+D8myD0vQoItdQwLF3LQztqL3d5l/4ygZF0mfYVY/1axf1T9ekn9i+/SqC5zRl1wm8KYQ+vDyGL8vug//t4ZiDt46FUfegF4LOFhCeprQgTeZFgh9vP9lYkGlLNqBu0OHha8/pR/bHEmFo+jh6kBvpJqRTrauNPs1JENY0QhOUM8uezPK4LfippoWduksrjXjQCBbGjvt"
 
 # Replace with Domain name you want for your web applications
-domain_name: "salama.kelven.dev"
+domain_name: "salama.kelven.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "testhealth-k8supgrade-digit-buckets-demo-ruba02"
